@@ -114,3 +114,5 @@ TriggerServerEvent('rsg-appearance:server:saveOutfit', clothesData, isMale, outf
 - Contributors: community developers and testers  
 - License: GPL‑3.0  
 
+Modified from https://github.com/Rexshack-RedM/rsg-appearance, Aug 2025.
+See the Git history for changes. Distributed under GNU GPLv3.
